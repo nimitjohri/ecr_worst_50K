@@ -1,0 +1,13 @@
+{
+  "name": "VEX perf test hub (50K images, worst case)",
+  "description": "Synthetic OpenVEX not_affected statements for VEX performance testing",
+  "versions": [
+    {
+      "spec_version": "0.1",
+      "locations": [
+        { "url": "https://github.com/REPLACE_ORG/REPLACE_REPO/archive/refs/heads/main.tar.gz//REPLACE_REPO-main" }
+      ],
+      "update_interval": "24h"
+    }
+  ]
+}

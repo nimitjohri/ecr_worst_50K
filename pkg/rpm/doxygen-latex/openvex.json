@@ -1,0 +1,1 @@
+{"@context":"https://openvex.dev/ns/v0.2.0","@id":"https://aquasec.example/vex/hub/pkg:rpm/doxygen-latex","author":"vex-perf-test","statements":[{"vulnerability":{"name":"CVE-2020-11023"},"products":[{"@id":"pkg:rpm/doxygen-latex@1:1.8.14-12.el8?arch=x86_64"}],"status":"not_affected","justification":"component_not_present"}],"timestamp":"2026-10-19T00:00:00Z","version":1}

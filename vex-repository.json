@@ -5,7 +5,7 @@
     {
       "spec_version": "0.1",
       "locations": [
-        { "url": "https://github.com/REPLACE_ORG/REPLACE_REPO/archive/refs/heads/main.tar.gz//REPLACE_REPO-main" }
+        { "url": "https://github.com/nimitjohri/ecr_worst_50K/archive/refs/heads/main.tar.gz//ecr_worst_50K-main" }
       ],
       "update_interval": "24h"
     }
